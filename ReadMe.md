@@ -1,67 +1,44 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+### Hey 👋🏽, I'm [Aizaz Ullah!](https://www.linkedin.com/in/theaizaz)
 
-###
+<a href="https://twitter.com/yourtwitterhandle">
+</a>
+<a href="https://www.linkedin.com/in/theaizaz">
+  <img align="left" alt="Aizaz's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/theaizaz1/">
+  <img align="left" alt="Aizaz's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/theAizaz">
+  <img align="left" alt="Aizaz's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<br />
+<br />
 
-###
+I'm **Aizaz**, an **Embedded Systems Engineer** from Islamabad, Pakistan 🚀. With a background in **Electrical and Electronics Engineering**, I've developed expertise in **IoT, FPGA development, firmware programming**, and **real-time systems**. I'm passionate about creating efficient, secure solutions for embedded systems, and have worked with a wide variety of tools and technologies, including ESP32, Verilog, and embedded Linux distributions.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+Currently, I am working as an **Embedded Software Engineer** at [Devomech Solutions](https://devomech.com/) and continuously growing my skill set by working on projects that bridge hardware and software, including IoT devices, secure communication protocols, and FPGA-based systems.
 
-###
+When I'm not working on embedded projects, I enjoy learning about new technologies, collaborating on innovative solutions, and sharing my knowledge with the tech community.
 
-<h1 align="center">hey there 👋</h1>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=ecf05e4763qu5gnevopwf60x1cho965018o37ykz90642y4d&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-###
+**Talking about Personal Stuffs:**
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 👨🏽‍💻 I’m currently working on embedded systems projects involving real-time systems and IoT;
+- 👯 I’m looking to collaborate on open-source embedded projects🤝;
+- 💬 Ask me about C, C++, Verilog, IoT, Embedded Linux, FPGA development;
+- ⚡️ Fun-Fact: I love working on custom firmware and enjoy experimenting with new microcontrollers;
+- 📫 How to reach me: [aizazkhan022017@gmail.com](aizazkhan022017@gmail.com);
+- 📝[Resume](https://drive.google.com/file/d/1_dAYqce56Aj86zrjUID32YKcPFTkzUrq/view?usp=sharing)
 
-###
+**Languages and Tools:**  
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<code><img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c%2B%2B.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+⭐️ From [Aizaz](https://www.linkedin.com/in/theaizaz)
