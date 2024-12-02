@@ -29,7 +29,7 @@ When I'm not working on embedded projects, I enjoy learning about new technologi
 - 👯 I’m looking to collaborate on open-source embedded projects🤝;
 - 💬 Ask me about C, C++, Verilog, IoT, Embedded Linux, FPGA development;
 - ⚡️ Fun-Fact: I love working on custom firmware and enjoy experimenting with new microcontrollers;
-- 📫 How to reach me: [aizazkhan022017@gmail.com](aizazkhan022017@gmail.com);
+- 📫 How to reach me: [theaizazullah@gmail.com](theaizazullahgmail.com);
 - 📝[Resume](https://drive.google.com/file/d/1_dAYqce56Aj86zrjUID32YKcPFTkzUrq/view?usp=sharing)
 
 **Languages and Tools:**  
